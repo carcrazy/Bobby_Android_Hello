@@ -6,11 +6,13 @@
     android:layout_height="fill_parent"
     >
     <TextView
+        android:id="@+id/tv_0"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Hello World, MyActivity"
         />
     <TextView
+        android:id="@+id/tv_2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/github_testing"
