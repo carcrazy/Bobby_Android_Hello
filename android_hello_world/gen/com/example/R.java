@@ -15,7 +15,7 @@ public final class R {
     }
     public static final class id {
         public static final int tv_0=0x7f050000;
-        public static final int tv_2=0x7f050001;
+        public static final int tv_3=0x7f050001;
     }
     public static final class layout {
         public static final int main=0x7f030000;
